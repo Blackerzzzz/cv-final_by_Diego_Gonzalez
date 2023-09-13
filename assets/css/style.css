@@ -1,5 +1,4 @@
 .fotografia {
-    background-color: white;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -41,3 +40,4 @@ footer {
     margin: 10px;
     font-family: 'Roboto Light 300', sans-serif;
 }
+body{background-color: rgb(151, 147, 147);}
